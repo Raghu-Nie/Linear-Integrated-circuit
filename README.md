@@ -21,7 +21,7 @@ A **Differential amplifier** takes two input signals and amplifies the differenc
 
 *Power supply, 
 
-*An operational amplifer.
+*An pair operational amplifer.
 
 ## Working principle
 The working principle of a differential amplifier can be broken down into a few key steps:
@@ -95,9 +95,18 @@ Vout=1.75-1.67
 
 ![image](https://github.com/user-attachments/assets/54fd43a9-9da6-4076-9706-e16ed5518ee4)
 
-Gain=1.75-1.67/1.6-1.53=1.14 V
+Gain=1.75-1.67/1.6-1.53
 
-## AC analysis
+=1.14 V.
+
+Gain in dB=20*log(1.14)
+
+=1.38dB
+
+## AC analysis :
+![image](https://github.com/user-attachments/assets/75fe4cd8-c9ba-469e-a49d-ac81bd2f433c)
+
+
 
 
 
