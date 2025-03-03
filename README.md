@@ -1,6 +1,6 @@
 # _experiment 2_:
 
-##basic differential amlifier design using LTspice.
+## _basic differential amlifier design using LTspice._
 
 ## _AIM:_
 
