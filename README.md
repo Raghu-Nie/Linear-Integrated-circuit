@@ -83,13 +83,22 @@ Iss=0.875mA
 
 ![image](https://github.com/user-attachments/assets/0a98d3bc-d70d-456b-a37c-d77f75fa412f)
 
+Vin=1.6-1.53
+
 ### Output waveform :
 
 ![image](https://github.com/user-attachments/assets/09a724ca-15f4-4e7f-b2c6-bbfc7dd1ad19)
 
+Vout=1.75-1.67
+
 ### combined output:
 
 ![image](https://github.com/user-attachments/assets/54fd43a9-9da6-4076-9706-e16ed5518ee4)
+
+Gain=1.75-1.67/1.6-1.53=1.14 V
+
+## AC analysis
+
 
 
 
