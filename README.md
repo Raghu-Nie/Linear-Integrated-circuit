@@ -64,22 +64,33 @@ Rss=VP/Iss=0.6/0.875mA=685 ohms
 
 ## DC Analysis:
 
-![image](https://github.com/user-attachments/assets/5813c145-c168-4ae1-affc-d8613b681eac)
+![image](https://github.com/user-attachments/assets/b2466887-bd0a-492c-b84d-08c4bbcf5edd)
+
 
 Id1=0.4375mA
 
 Id2=0.4375mA
 
-Vocm1=1.7V
+Vocm1=1.7v
 
-Vocm2=1.7V
+Vocm2=1.7v
 
 Iss=0.875mA
 
 ## Transient Anlysis :
+
 ### Input Waveform :
 
 ![image](https://github.com/user-attachments/assets/0a98d3bc-d70d-456b-a37c-d77f75fa412f)
+
+### Output waveform :
+
+![image](https://github.com/user-attachments/assets/09a724ca-15f4-4e7f-b2c6-bbfc7dd1ad19)
+
+### combined output:
+
+![image](https://github.com/user-attachments/assets/54fd43a9-9da6-4076-9706-e16ed5518ee4)
+
 
 
 
