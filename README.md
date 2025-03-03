@@ -1,13 +1,13 @@
 # _experiment 2_:
 
-## _Basic differential amlifier design using LTspice._
+## Basic differential amlifier design using LTspice.
 
-## _AIM:_
+## AIM:
 
 To design differential amplifier and perform DC analysis,Ac analysis,Transient analysis And extract parameters
 for the following specification;
 VDD=3.2; P<=2.8mW; Vicm=1.6V; Vocm=1.7V; Vp=0.6
-## _Components required:_
+## Components required:
 1)N-MOSFET(nmos4),
 
 2)Resistors(3.42k(2),685ohm(1),
@@ -16,8 +16,8 @@ VDD=3.2; P<=2.8mW; Vicm=1.6V; Vocm=1.7V; Vp=0.6
 
 4)Current source (1 mA).
 
-## _Theory_
-A **Differential amplifier** takes two input signals and amplifies the difference between them, Ignoring anything that's the same in both signals. It's like tuning out the background noise and focusing on the unique parts of a conversation.This makes it super useful for things like measuring tiny differences in voltages in sensitive electronic equipment.
+## Theory
+A *Differential amplifier* takes two input signals and amplifies the difference between them, Ignoring anything that's the same in both signals. It's like tuning out the background noise and focusing on the unique parts of a conversation.This makes it super useful for things like measuring tiny differences in voltages in sensitive electronic equipment.
 ### The Differential amplifier circuit consists of:
 *Two inputs V1 and V2,
 
@@ -27,7 +27,7 @@ A **Differential amplifier** takes two input signals and amplifies the differenc
 
 *An pair operational amplifer.
 
-## _Working principle:_
+## Working principle:
 The working principle of a differential amplifier can be broken down into a few key steps:
 
 Input Signals: The amplifier receives two input signals, typically labeled as 𝑉1 and 𝑉2.
@@ -38,7 +38,7 @@ Amplification: The amplifier then amplifies this difference by a certain gain fa
 
 Output Signal: The amplified difference is then produced as the output signal,Vout=Ad(V1-V2).
 
-## _Procedure:_
+## Procedure:
 
 1.Open the LTspice software, merge the library file for getting accurate values of NMOS.
 
