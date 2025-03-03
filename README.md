@@ -106,6 +106,9 @@ Gain in dB=20*log(1.14)
 ## AC analysis :
 ![image](https://github.com/user-attachments/assets/75fe4cd8-c9ba-469e-a49d-ac81bd2f433c)
 
+# Circuit 2 :
+
+
 
 
 
