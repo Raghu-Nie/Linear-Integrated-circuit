@@ -1,5 +1,9 @@
-# _experiment 2_:basic differential amlifier design using LTspice.
+# _experiment 2_:
+
+##basic differential amlifier design using LTspice.
+
 ## _AIM:_
+
 To design differential amplifier and perform DC analysis,Ac analysis,Transient analysis And extract parameters
 for the following specification;
 VDD=3.2; P<=2.8mW; Vicm=1.6V; Vocm=1.7V; Vp=0.6
