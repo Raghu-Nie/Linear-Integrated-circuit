@@ -76,5 +76,12 @@ Vocm2=1.7V
 
 Iss=0.875mA
 
+## Transient Anlysis :
+### Input Waveform :
+
+![image](https://github.com/user-attachments/assets/0a98d3bc-d70d-456b-a37c-d77f75fa412f)
+
+
+
 
 
