@@ -13,7 +13,7 @@ VDD=3.2; P<=2.8mW; Vicm=1.6V; Vocm=1.7V; Vp=0.6
 4)Current source (1 mA).
 
 ## Theory
-A differential amplifier takes two input signals and amplifies the difference between them, Ignoring anything that's the same in both signals. It's like tuning out the background noise and focusing on the unique parts of a conversation.This makes it super useful for things like measuring tiny differences in voltages in sensitive electronic equipment.
+A **Differential amplifier** takes two input signals and amplifies the difference between them, Ignoring anything that's the same in both signals. It's like tuning out the background noise and focusing on the unique parts of a conversation.This makes it super useful for things like measuring tiny differences in voltages in sensitive electronic equipment.
 ### The Differential amplifier circuit consists of:
 *Two inputs V1 and V2,
 
