@@ -120,7 +120,7 @@ Gain=1.75-1.67/1.6-1.53
 
 ## _AC analysis :_
 
-# _Circuit 03  :_
+## _Circuit 03 :_
 
 ## _DC Analysis:_
 
