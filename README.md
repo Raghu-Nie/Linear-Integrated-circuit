@@ -51,5 +51,30 @@ Output Signal: The amplified difference is then produced as the output signal,Vo
 7.For AC analysis, we should do some changes like converting DC SOURCE to sinosoidal waveform (1.6,50m,1k),after that select the AC simulation from the given options of simulation after giving values of (Decade,20,01,1T). So we will get a output after placing node to output waveform.
 
 ## Circuit 01:
-blob:https://web.whatsapp.com/142b1d55-e990-4e71-aadc-120e4cb2d119
+![image](https://github.com/user-attachments/assets/d269d41b-939e-4ba6-bf9b-fb5dd19e4e67)
+
+## Calculation:
+Iss=p/vdd=2.8/3.2=0.875mA
+
+ID1=ID2=Iss/2=0.875/2=0.4375mA
+
+RD=VDD-Vocm/ID1=3.2-1.7/0.4375mA=3.42K
+
+Rss=VP/Iss=0.6/0.875mA=685 ohms
+
+## DC Analysis:
+
+![image](https://github.com/user-attachments/assets/5813c145-c168-4ae1-affc-d8613b681eac)
+
+Id1=0.4375mA
+
+Id2=0.4375mA
+
+Vocm1=1.7V
+
+Vocm2=1.7V
+
+Iss=0.875mA
+
+
 
