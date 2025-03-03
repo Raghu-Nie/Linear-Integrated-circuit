@@ -38,7 +38,7 @@ Output Signal: The amplified difference is then produced as the output signal,Vo
 
 1.Open the LTspice software, merge the library file for getting accurate values of NMOS.
 
-2.Select the components which are needed to us like for circuit 1 we need 3.2k & 685ohm resistors,2 CMOSN, three voltage sources(1.6v(2),3.2v(1)),ground from the components list.
+2.Select the components which are needed to us like for circuit 1 we need 3.2k & 685ohm resistors,2 CMOSN, three voltage sources(1.6v(2), 3.2v(1)),ground from the components list.
 
 3.Place them all components in necessory way which is helpfull, connect all the components as in given circuit .
 
@@ -48,5 +48,8 @@ Output Signal: The amplified difference is then produced as the output signal,Vo
 
 6.After that lets take Transient analysis of 5m cycle so in input and output waveforms in 5 complete cycle, so here we get and seperate and combined waveforms of input and output.
 
-7.For AC analysis, we should do some changes like converting DC SOURCE to sinosoidal waveform (1.6,50m,1k),after that select the AC simulation from the given options of simulation after giving values of (Decade,20,01,1T). So we will get a output after placing node to output waveform
+7.For AC analysis, we should do some changes like converting DC SOURCE to sinosoidal waveform (1.6,50m,1k),after that select the AC simulation from the given options of simulation after giving values of (Decade,20,01,1T). So we will get a output after placing node to output waveform.
+
+## Circuit 01:
+blob:https://web.whatsapp.com/142b1d55-e990-4e71-aadc-120e4cb2d119
 
