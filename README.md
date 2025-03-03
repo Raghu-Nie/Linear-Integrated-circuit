@@ -23,7 +23,7 @@ A **Differential amplifier** takes two input signals and amplifies the differenc
 
 *An pair operational amplifer.
 
-## _ Working principle_
+## _Working principle:_
 The working principle of a differential amplifier can be broken down into a few key steps:
 
 Input Signals: The amplifier receives two input signals, typically labeled as 𝑉1 and 𝑉2.
@@ -106,35 +106,35 @@ Gain=1.75-1.67/1.6-1.53
 ## _AC analysis :_
 ![image](https://github.com/user-attachments/assets/75fe4cd8-c9ba-469e-a49d-ac81bd2f433c)
 
-# _Circuit 2 :
+## _Circuit 2 :_
 
-## DC Analysis:
+## _DC Analysis:_
 
-## Transient Anlysis :
+## _Transient Anlysis :_
 
-### Input Waveform :
+### _Input Waveform :_
 
-### Output waveform :
+### _Output waveform :_
 
-### combined output:
+### _combined output:_
 
-## AC analysis :
+## _AC analysis :_
 
-# Circuit  :
+# _Circuit 03  :_
 
-## DC Analysis:
+## _DC Analysis:_
 
-## Transient Anlysis :
+## _Transient Anlysis :_
 
-### Input Waveform :
+### _Input Waveform :_
 
-### Output waveform :
+### _Output waveform :_
 
-### combined output:
+### _combined output:_
 
-## AC analysis :
+## _AC analysis :_
 
-## Inference :
+## _Inference :_
 
 **Differential Gain**: It's like a magnifying glass for differences. It makes the tiny differences between two signals much easier to see.
 
