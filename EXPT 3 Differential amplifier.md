@@ -126,7 +126,7 @@ Iss=0.875mA
 ![image](https://github.com/user-attachments/assets/7efa0e16-fce7-4db3-ae4b-61786fb4e06a)
 
 Magnitude Shows how the differential amplifier amplifies low-frequency signals and attenuates high-frequency signals.
-Phase Indicates minimal phase shift at low frequencies, with significant phase delay as frequency increases, typical for differential amplifiers
+Phase Indicates minimal phase shift at low frequencies, with significant phase delay as frequency increases, typical for differential amplifiers.
 
 ## _Circuit 2 :_
 
@@ -187,7 +187,7 @@ L=180nM
 ![image](https://github.com/user-attachments/assets/0cc2a50d-8f14-4daf-baa8-f696ee4bd5ee)
 
 Magnitude Shows how the differential amplifier amplifies low-frequency signals and attenuates high-frequency signals.
-Phase Indicates minimal phase shift at low frequencies, with significant phase delay as frequency increases, typical for differential amplifiers
+Phase Indicates minimal phase shift at low frequencies, with significant phase delay as frequency increases.
 
 
 
@@ -253,7 +253,7 @@ L=180nM
 ![image](https://github.com/user-attachments/assets/fcaf2588-c1c5-44af-b45d-0e5152e4c1fd)
 
 Magnitude Shows how the differential amplifier amplifies low-frequency signals and attenuates high-frequency signals.
-Phase Indicates minimal phase shift at low frequencies, with significant phase delay as frequency increases, typical for differential amplifiers
+Phase Indicates minimal phase shift at low frequencies, with significant phase delay as frequency increases, typical for differential amplifiers.
 
 ## Result:
 
