@@ -1,4 +1,4 @@
-# _experiment 2_: 
+# _experiment 3_: 
 
 ## Basic Differential amlifier design using LTspice.
 
