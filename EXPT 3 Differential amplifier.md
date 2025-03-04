@@ -29,7 +29,7 @@ A *Differential amplifier* takes two input signals and amplifies the difference 
 
 *Power supply, 
 
-*pair operational amplifers.
+*pair of operational amplifers.
 
 ## Working principle:
 
