@@ -85,13 +85,15 @@ Iss=0.875mA
 
 ### _Input Waveform :_
 
-![image](https://github.com/user-attachments/assets/0a98d3bc-d70d-456b-a37c-d77f75fa412f)
+![image](https://github.com/user-attachments/assets/5d232e44-4c18-45eb-8161-b800261d468b)
+
 
 Vin=1.6-1.53
 
 ### _Output waveform :_
 
-![image](https://github.com/user-attachments/assets/09a724ca-15f4-4e7f-b2c6-bbfc7dd1ad19)
+![image](https://github.com/user-attachments/assets/91855cd9-7d20-4506-a04b-acfb405a72ad)
+
 
 Vout=1.75-1.67
 
