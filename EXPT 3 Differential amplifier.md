@@ -7,7 +7,9 @@
 To design differential amplifier and perform DC analysis,Ac analysis,Transient analysis And extract parameters
 for the following specification;
 VDD=3.2; P<=2.8mW; Vicm=1.6V; Vocm=1.7V; Vp=0.6
+
 ## Components required:
+
 1)N-MOSFET(nmos4),
 
 2)Resistors(3.42k(2),685ohm(1),
@@ -18,7 +20,9 @@ VDD=3.2; P<=2.8mW; Vicm=1.6V; Vocm=1.7V; Vp=0.6
 
 ## Theory
 A *Differential amplifier* takes two input signals and amplifies the difference between them, Ignoring anything that's the same in both signals. It's like tuning out the background noise and focusing on the unique parts of a conversation.This makes it super useful for things like measuring tiny differences in voltages in sensitive electronic equipment.
+
 ### The Differential amplifier circuit consists of:
+
 *Two inputs V1 and V2,
 
 *Two Resistors to set gain,
@@ -28,6 +32,7 @@ A *Differential amplifier* takes two input signals and amplifies the difference 
 *pair operational amplifers.
 
 ## Working principle:
+
 The working principle of a differential amplifier can be broken down into a few key steps:
 
 Input Signals: The amplifier receives two input signals, typically labeled as 𝑉1 and 𝑉2.
@@ -58,6 +63,7 @@ Output Signal: The amplified difference is then produced as the output signal,Vo
 ![image](https://github.com/user-attachments/assets/d269d41b-939e-4ba6-bf9b-fb5dd19e4e67)
 
 ## Design:
+
 Iss=p/vdd=2.8/3.2=0.875mA
 
 ID1=ID2=Iss/2=0.875/2=0.4375mA
@@ -68,7 +74,7 @@ Rss=VP/Iss=0.6/0.875mA=685 ohms
 
 W=2.52uM
 
-l=180nM
+L=180nM
 
 ## _DC Analysis:_
 
@@ -137,7 +143,7 @@ Rss=VP/Iss=0.6/0.875mA=685 ohms
 
 W=2.52uM
 
-l=180nM
+L=180nM
 
 
 ## _DC Analysis:_
@@ -196,7 +202,7 @@ Rss=VP/Iss=0.6/0.875mA=685 ohms
 
 W=2.52uM
 
-l=180nM
+L=180nM
 
 **CMOS M3 :**- W=6.22u , L=180nm with 0.966v gate voltage.
 
