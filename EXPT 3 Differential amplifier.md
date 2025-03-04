@@ -57,7 +57,7 @@ Output Signal: The amplified difference is then produced as the output signal,Vo
 ## _Circuit 01_:
 ![image](https://github.com/user-attachments/assets/d269d41b-939e-4ba6-bf9b-fb5dd19e4e67)
 
-## _Calculation:_
+## Design:
 Iss=p/vdd=2.8/3.2=0.875mA
 
 ID1=ID2=Iss/2=0.875/2=0.4375mA
