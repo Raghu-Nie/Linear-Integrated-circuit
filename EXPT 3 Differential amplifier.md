@@ -196,7 +196,7 @@ W=2.52uM
 
 l=180nM
 
-CMOS M3 :- W=6.22u , L=180nm with 0.966v gate voltage.
+**CMOS M3 :**- W=6.22u , L=180nm with 0.966v gate voltage.
 
 
 ## _DC Analysis:_
