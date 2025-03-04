@@ -25,7 +25,7 @@ A *Differential amplifier* takes two input signals and amplifies the difference 
 
 *Power supply, 
 
-*An pair operational amplifer.
+*pair operational amplifers.
 
 ## Working principle:
 The working principle of a differential amplifier can be broken down into a few key steps:
