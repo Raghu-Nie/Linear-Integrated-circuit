@@ -92,21 +92,22 @@ Iss=0.875mA
 ![image](https://github.com/user-attachments/assets/5d232e44-4c18-45eb-8161-b800261d468b)
 
 
-Vin=1.65-1.55
+**Vin=1.65-1.55**
 
 ### _Output waveform :_
 
 ![image](https://github.com/user-attachments/assets/91855cd9-7d20-4506-a04b-acfb405a72ad)
 
 
-Vout=1.86-1.53
+**Vout=1.86-1.53**
 
 ### _combined output:_
 
 ![image](https://github.com/user-attachments/assets/0f77d9af-e1f6-472d-9009-30951e30ef06)
 
+## Gain calculation
 
-Gain=1.86-1.53/1.65-1.55
+**Gain**=1.86-1.53/1.65-1.55
 
 =3.3 V.
 
@@ -149,20 +150,21 @@ l=180nM
 
 ![image](https://github.com/user-attachments/assets/03ed9117-4220-46c1-b127-ed29d7569cf2)
 
-Vin=1.65-1.55
-
+**Vin=1.65-1.55**
 
 ### _Output waveform :_
 
 ![image](https://github.com/user-attachments/assets/3808525e-5669-40e7-946c-a83d29311733)
 
-Vout=1.86-1.53
+**Vout=1.86-1.53**
 
 ### _combined output:_
 
 ![image](https://github.com/user-attachments/assets/f5c6b038-13a0-4e66-ac01-be159273969b)
 
-Gain=1.86-1.53/1.65-1.55
+## Gain calculation
+
+**Gain**=1.86-1.53/1.65-1.55
 
 =3.3 V.
 
@@ -209,20 +211,22 @@ l=180nM
 
 ![image](https://github.com/user-attachments/assets/c7f48e1a-81cb-479a-b4be-92aa816ebe5d)
 
-Vin=1.65-1.55
+**Vin=1.65-1.55**
 
 ### _Output waveform :_
 
 ![image](https://github.com/user-attachments/assets/38b7fc2c-c795-4779-8308-f95c4771b7d3)
 
-Vout=1.86-1.53
+**Vout=1.86-1.53**
 
 
 ### _combined output:_
 
 ![image](https://github.com/user-attachments/assets/8eab372a-ccbd-4050-806d-3b420046199d)
 
-Gain=1.86-1.53/1.65-1.55
+ ## Gain calculation
+
+**Gain**=1.86-1.53/1.65-1.55
 
 =3.3 V.
 
