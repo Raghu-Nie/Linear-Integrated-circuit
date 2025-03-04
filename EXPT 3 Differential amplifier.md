@@ -108,9 +108,13 @@ Gain=1.75-1.67/1.6-1.53
 =1.38dB
 
 ## _AC analysis :_
-![image](https://github.com/user-attachments/assets/75fe4cd8-c9ba-469e-a49d-ac81bd2f433c)
+
+![image](https://github.com/user-attachments/assets/7efa0e16-fce7-4db3-ae4b-61786fb4e06a)
 
 ## _Circuit 2 :_
+
+![image](https://github.com/user-attachments/assets/678f149c-2c11-4c6e-ad7d-e1bfc3d018a1)
+
 
 ## _DC Analysis:_
 
@@ -125,6 +129,9 @@ Gain=1.75-1.67/1.6-1.53
 ## _AC analysis :_
 
 ## _Circuit 03 :_
+
+![image](https://github.com/user-attachments/assets/1e24bc6a-5a43-4350-86ea-b6bff523a677)
+
 
 ## _DC Analysis:_
 
