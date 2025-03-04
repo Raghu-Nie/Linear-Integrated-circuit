@@ -272,9 +272,7 @@ L=180nM
 Magnitude Shows how the differential amplifier amplifies low-frequency signals and attenuates high-frequency signals.
 Phase Indicates minimal phase shift at low frequencies, with significant phase delay as frequency increases, typical for differential amplifiers.
 
-## Result:
 
-In Differencial Amplifier Specification Vdd=3.2V , P<=2.8mw, Vicm=1.6v , Vocm=1.7v , Vp=0.6v DC analysis For W=2.52um , L=180nm We observed the Required Output By comparing the DC operationg point and given specification Transient Analysis , We Calculated gain and its is compared with AC analysis output waveform. For Circuit 2 replaced resister by current source, For Circuit 3 replaced Current Source by Mosfet. All the design specification is appeared in Simulation
 
 ## _Inference :_
 
