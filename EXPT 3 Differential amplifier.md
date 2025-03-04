@@ -63,6 +63,11 @@ Output Signal: The amplified difference is then produced as the output signal,Vo
 ![image](https://github.com/user-attachments/assets/d269d41b-939e-4ba6-bf9b-fb5dd19e4e67)
 
 ## Design:
+Given:VDD=3.2; P<=2.8mW;
+
+Vicm=1.6V; Vocm=1.7V;
+
+Vp=0.6
 
 Iss=p/vdd=2.8/3.2=0.875mA
 
@@ -134,6 +139,12 @@ Phase Indicates minimal phase shift at low frequencies, with significant phase d
 
 ## Design
 
+Given:VDD=3.2; P<=2.8mW;
+
+Vicm=1.6V; Vocm=1.7V;
+
+Vp=0.6
+
 P=2.8 mV
 
 Iss=p/vdd=2.8/3.2=0.875mA
@@ -196,6 +207,12 @@ Phase Indicates minimal phase shift at low frequencies, with significant phase d
 ![image](https://github.com/user-attachments/assets/1e24bc6a-5a43-4350-86ea-b6bff523a677)
 
 ## Design
+
+Given:VDD=3.2; P<=2.8mW;
+
+Vicm=1.6V; Vocm=1.7V;
+
+Vp=0.6
 
 P=2.8 mV
 
