@@ -1,6 +1,6 @@
 # _experiment 2_: 
 
-## Basic differential amlifier design using LTspice.
+## Basic Differential amlifier design using LTspice.
 
 ## AIM:
 
@@ -247,7 +247,7 @@ L=180nM
 
 ## Result:
 
-In differencial Amplifier Specification Vdd=3.2V , P<=2.8mw, Vicm=1.6v , Vocm=1.7v , Vp=0.6v DC analysis For W=2.52um , L=180nm We observed the Required Output By comparing the DC operationg point and given specification Transient Analysis , We Calculated gain and its is compared with AC analysis output waveform. For Circuit 2 replaced resister by current source, For Circuit 3 replaced Current Source by Mosfet. All the design specification is appeared in Simulation
+In Differencial Amplifier Specification Vdd=3.2V , P<=2.8mw, Vicm=1.6v , Vocm=1.7v , Vp=0.6v DC analysis For W=2.52um , L=180nm We observed the Required Output By comparing the DC operationg point and given specification Transient Analysis , We Calculated gain and its is compared with AC analysis output waveform. For Circuit 2 replaced resister by current source, For Circuit 3 replaced Current Source by Mosfet. All the design specification is appeared in Simulation
 
 ## _Inference :_
 
