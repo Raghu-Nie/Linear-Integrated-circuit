@@ -97,7 +97,8 @@ Vout=1.75-1.67
 
 ### _combined output:_
 
-![image](https://github.com/user-attachments/assets/54fd43a9-9da6-4076-9706-e16ed5518ee4)
+![image](https://github.com/user-attachments/assets/0f77d9af-e1f6-472d-9009-30951e30ef06)
+
 
 Gain=1.75-1.67/1.6-1.53
 
