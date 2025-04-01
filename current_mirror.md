@@ -78,3 +78,31 @@ Ratio 1:2
 
 Iref=0.183mA
 
+CASE 1:
+
+1:1 USING 180nM
+
+# Circuit :
+
+![image](https://github.com/user-attachments/assets/e5c370b2-ce05-4aaa-854f-07d511fecb84)
+
+
+# DC Analysis:
+
+![image](https://github.com/user-attachments/assets/61bc0681-c187-4e17-9bdb-5f1842ae988f)
+
+# Transient Analysis:
+
+![image](https://github.com/user-attachments/assets/120b0c6c-3711-4f50-8a4d-24fbd1a11719)
+
+# AC Analysis(Frequency responce):
+
+![image](https://github.com/user-attachments/assets/adcd1784-1cb8-4daa-8de0-c8d5433599d8)
+
+
+
+
+
+
+
+
