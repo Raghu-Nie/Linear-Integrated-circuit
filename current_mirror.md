@@ -145,7 +145,7 @@ CASE 4:
 
 # Circuit :
 
-![image](https://github.com/user-attachments/assets/4d0bb71c-a8fe-4ff3-92d3-bb10cc67a0b3
+![image](https://github.com/user-attachments/assets/4d0bb71c-a8fe-4ff3-92d3-bb10cc67a0b3)
 
 # DC Analysis:
 
@@ -185,7 +185,7 @@ CASE 6:
 
 # Circuit :
 
-![image](https://github.com/user-attachments/assets/4d0bb71c-a8fe-4ff3-92d3-bb10cc67a0b3
+![image](https://github.com/user-attachments/assets/4d0bb71c-a8fe-4ff3-92d3-bb10cc67a0b3)
 
 # DC Analysis:
 
