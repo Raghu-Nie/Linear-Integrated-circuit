@@ -48,7 +48,7 @@ Itotal=power/Vdd
 
 Iref=Id=Itotal/2
 
-       =0.277mA
+       =0.277 mA
        
 Vg=Vin;
 
