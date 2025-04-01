@@ -99,10 +99,103 @@ CASE 1:
 
 ![image](https://github.com/user-attachments/assets/adcd1784-1cb8-4daa-8de0-c8d5433599d8)
 
+CASE 2:
 
+1:2 USING 180nM
 
+# Circuit :
 
+![image](https://github.com/user-attachments/assets/4d0bb71c-a8fe-4ff3-92d3-bb10cc67a0b3)
 
+# DC Analysis:
 
+![image](https://github.com/user-attachments/assets/b15825c2-9485-4743-a35d-57f5aec144fd)
 
+# Transient Analysis:
+
+![image](https://github.com/user-attachments/assets/16d1155c-9661-4571-95e3-f877e20274e8)
+
+# AC Analysis(Frequency responce):
+
+![image](https://github.com/user-attachments/assets/70a93278-13b8-4726-aabc-7b4786c00b44)
+
+CASE 3:
+
+1:1 USING 500nM
+
+# Circuit :
+
+![image](https://github.com/user-attachments/assets/e5c370b2-ce05-4aaa-854f-07d511fecb84)
+
+# DC Analysis:
+
+![image](https://github.com/user-attachments/assets/aab85715-d23b-4770-8aa4-46f690378e45)
+
+# Transient Analysis:
+
+![image](https://github.com/user-attachments/assets/1748a95f-a0b6-40f6-9506-5fab55505195)
+
+# AC Analysis(Frequency responce):
+
+![image](https://github.com/user-attachments/assets/06c83365-9fb4-40cf-a1a7-299d67b94436)
+
+CASE 4:
+
+1:2 USING 500nM
+
+# Circuit :
+
+![image](https://github.com/user-attachments/assets/4d0bb71c-a8fe-4ff3-92d3-bb10cc67a0b3
+
+# DC Analysis:
+
+![image](https://github.com/user-attachments/assets/116b35a6-3f77-4260-938a-413598311799)
+
+# Transient Analysis:
+
+![image](https://github.com/user-attachments/assets/1f16386a-65a8-43be-a59d-4e01f5abd782)
+
+# AC Analysis(Frequency responce):
+
+![image](https://github.com/user-attachments/assets/c2c60390-4111-4617-b56e-7fee93c0da2c)
+
+CASE 5:
+
+1:1 USING 1uM
+
+# Circuit :
+
+![image](https://github.com/user-attachments/assets/e5c370b2-ce05-4aaa-854f-07d511fecb84)
+
+# DC Analysis:
+
+![image](https://github.com/user-attachments/assets/e18c5d03-59d1-470f-b25d-4e494891a96d)
+
+# Transient Analysis:
+
+![image](https://github.com/user-attachments/assets/447b11b0-0207-4d8c-ab9e-d8aacddfd96c)
+
+# AC Analysis(Frequency responce):
+
+![image](https://github.com/user-attachments/assets/bd0c6c44-ec3b-4ed8-a463-e38988be6db1)
+
+CASE 6:
+
+1:2 USING 1uM
+
+# Circuit :
+
+![image](https://github.com/user-attachments/assets/4d0bb71c-a8fe-4ff3-92d3-bb10cc67a0b3
+
+# DC Analysis:
+
+![image](https://github.com/user-attachments/assets/6499f457-59ac-42a8-9a01-12e842591ce3)
+
+# Transient Analysis:
+
+![image](https://github.com/user-attachments/assets/53fcc68e-9a5e-4cab-ac88-b0e1a5aaaf5e)
+
+# AC Analysis(Frequency responce):
+
+![image](https://github.com/user-attachments/assets/6d820ab9-0416-49f6-9f19-8c024d9597cd)
 
