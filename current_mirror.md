@@ -78,11 +78,11 @@ Ratio 1:2
 
 Iref=0.183mA
 
-# Circuit :
-
 CASE 1:
 
 1:1 USING 180nM
+
+# Circuit :
 
 ![image](https://github.com/user-attachments/assets/e5c370b2-ce05-4aaa-854f-07d511fecb84)
 
